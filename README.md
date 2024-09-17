@@ -13,6 +13,12 @@ Key Features:
 
 React.js: Ensures a dynamic and responsive user interface.
 Redux Toolkit: Manages application state efficiently, providing a smooth user experience.
+
+
+
+
 Bootstrap: Delivers a clean, modern, and responsive design.
 FontAwesome: Enhances UI with a range of icons for better navigation and user interaction.
 Explore Modern Interior Design today and find everything you need to create your dream home. From elegant furniture to chic accessories, our website is designed to make your interior design journey both enjoyable and effortless.
+
+https://github.com/user-attachments/assets/36f3786a-556d-4442-9e2e-c19bc507363f
