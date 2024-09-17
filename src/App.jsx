@@ -3,8 +3,8 @@ import Header from "./Component/Header";
 
 import MainPage from "./Component/MainPage";
 import Footer from "./Component/Footer";
-
-
+import Shop from "./Component/pages/Shop";
+import { BrowserRouter, Route, Router } from "react-router-dom";
 
 function App() {
   // const [currentPage, setCurrentPage] = useState("home");
@@ -15,9 +15,8 @@ function App() {
   // };
   return (
     <>
- 
-      <Header  />
-
+      <Header />
+     
       <MainPage />
 
       <Footer />
